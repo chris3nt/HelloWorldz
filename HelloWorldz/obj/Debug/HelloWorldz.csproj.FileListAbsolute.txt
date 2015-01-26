@@ -1,0 +1,6 @@
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.exe.config
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.exe
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.pdb
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.csprojResolveAssemblyReference.cache
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.exe
+c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.pdb
