@@ -4,9 +4,15 @@ c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\bin\De
 c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.csprojResolveAssemblyReference.cache
 c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.exe
 c:\files\my documents\visual studio 2013\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.pdb
+<<<<<<< HEAD
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.exe.config
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.exe
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.pdb
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.exe
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.pdb
 C:\Users\Chris\Desktop\CS Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.csprojResolveAssemblyReference.cache
+=======
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\HelloWorldz\HelloWorldz\bin\Debug\HelloWorldz.exe.config
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.exe
+C:\Users\Angel_000\Documents\Visual Studio 2013\Projects\Projects\HelloWorldz\HelloWorldz\obj\Debug\HelloWorldz.pdb
+>>>>>>> 5f89ff71b0307561d48d81dd17a9a6cb7c1d919c
